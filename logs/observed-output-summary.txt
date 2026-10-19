@@ -1,0 +1,6 @@
+Observed terminal summary (transcribed from practical output; not a raw VM-exported log):
+Date shown: Mon Oct 19 04:28:27 AM EDT 2026
+PID: 4353; PPID: 2993; user: kali; hostname: kali
+Script SHA-256 recorded: 81cf4d1341fee6d511ba925155dd3e85d028c1a53ee8a26ab83221690c173d8c
+Interfaces: lo UNKNOWN 127.0.0.1/8 ::1/128; docker0 DOWN 172.17.0.1/16
+Route: 172.17.0.0/16 dev docker0 proto kernel scope link src 172.17.0.1 linkdown
